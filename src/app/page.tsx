@@ -404,7 +404,7 @@ export default function HomePage() {
           </div>
         </div>
         <p className="mt-8 text-center text-xs text-gray-400">
-          © {new Date().getFullYear()} Viora. All rights reserved.
+        © 2026 Viora. All rights reserved.
         </p>
       </footer>
     </main>
